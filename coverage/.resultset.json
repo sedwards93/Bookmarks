@@ -1,0 +1,17 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/symionedwards/Projects/Bookmarks/spec/features/hello_world_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1605537051
+  }
+}
