@@ -1,43 +1,24 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/symionedwards/Projects/Bookmarks/spec/features/bookmarks_spec.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/symionedwards/Projects/Bookmarks/spec/features/hello_world_spec.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/symionedwards/Projects/Bookmarks/spec/list_spec.rb": {
+      "/Users/symionedwards/Projects/Bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
           1,
           1,
           1,
-          null,
+          1,
           null,
           1,
           1,
+          1,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1605538607
+    "timestamp": 1605604053
   }
 }
