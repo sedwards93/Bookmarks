@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/rafaeloelmann/Projects/week_4/Bookmarks/spec/bookmark_spec.rb": {
+      "/Users/symionedwards/Projects/Bookmarks/Bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -32,20 +32,21 @@
           null
         ]
       },
-      "/Users/rafaeloelmann/Projects/week_4/Bookmarks/spec/features/creating_bookmarks_spec.rb": {
+      "/Users/symionedwards/Projects/Bookmarks/Bookmarks/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
           1,
-          null,
           1,
+          null,
+          0,
           null,
           null
         ]
       }
     },
-    "timestamp": 1605634775
+    "timestamp": 1605786948
   }
 }
