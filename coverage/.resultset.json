@@ -4,26 +4,19 @@
       "/Users/symionedwards/Projects/Bookmarks/Bookmarks/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          1,
           1,
           null,
           1,
           1,
           1,
-          null,
           1,
           null,
           1,
           1,
-          null,
-          1,
           1,
           null,
-          null,
           1,
+          null,
           1,
           1,
           null,
@@ -31,7 +24,29 @@
           1,
           null,
           null,
+          1,
+          1,
+          1,
+          1,
           null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/symionedwards/Projects/Bookmarks/Bookmarks/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -50,6 +65,6 @@
         ]
       }
     },
-    "timestamp": 1605788958
+    "timestamp": 1605790091
   }
 }
