@@ -19,19 +19,29 @@
           null,
           1,
           1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
           1,
           1,
           1,
           null,
+          null,
           1,
           1,
           1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           1,
           null,
           null,
@@ -63,8 +73,30 @@
           null,
           null
         ]
+      },
+      "/Users/symionedwards/Projects/Bookmarks/Bookmarks/spec/features/deleting_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1605790091
+    "timestamp": 1605800207
   }
 }

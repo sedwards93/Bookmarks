@@ -23,3 +23,9 @@ To view bookmarks, navigate to `localhost:3000/bookmarks`	To view bookmarks, nav
 
 
 ### To run tests:	### To run tests:
+
+
+
+As a User
+So that I can make changes to my list of bookmarks,
+I would like to be able to delete bookmarks
